@@ -1,4 +1,4 @@
-### Merhaba, ben Yusuf Bozacı! 👋
+### Merhaba, ben Yusuf Bozacı! 👊
 
 * 19 yaşında yazılım ile uğraşan,
 * Yazılımı tamamen "araştırarak" herhangi bir eğitim almadan öğrenen ve öğrenmeye devam eden,
