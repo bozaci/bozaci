@@ -1,1 +1,3 @@
-### Hi 👋
+### Merhaba, ben Yusuf Bozacı! 👋
+
+- Öyle.
