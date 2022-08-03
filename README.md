@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there, I'm Yusuf 👋
 
-<!--
-**bozaci/bozaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A front-developer that develops projects by prioritizing quality and clean coding, acts with the future of the project in mind, and develops in accordance with accepted standards. 
 
-Here are some ideas to get you started:
+It's a never-ending adventure to learn, so there's so much more to learn!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Technologies & Tools
+- HTML
+- CSS & SASS
+- Javascript
+- Vue.js
+- Nuxt.js
+- WordPress
+- Bootstrap
+- Tailwind
+
+### Contact Me
+- Website [yusufbozaci.dev](https://yusufbozaci.dev)
+- Twitter [@yusufbozaci_](https://twitter.com/yusufbozaci_)
+- E-Mail [yusuf@updatedev.net](mailto:yusuf@updatedev.net)
