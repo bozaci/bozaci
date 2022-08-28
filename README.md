@@ -1,5 +1,4 @@
 ### Hi there, I'm Yusuf 👋
-![alt text](https://github.com/bozaci/bozaci/blob/main/github-home-image.png)
 
 A front-developer that develops projects by prioritizing quality and clean coding, acts with the future of the project in mind, and develops in accordance with accepted standards. 
 
