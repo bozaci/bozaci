@@ -10,6 +10,8 @@ It's a never-ending adventure to learn, so there's so much more to learn!
 - HTML
 - CSS & SASS
 - Javascript
+- React
+- Next.js
 - Vue.js
 - Nuxt.js
 - WordPress
