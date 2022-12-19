@@ -6,18 +6,6 @@ It's a never-ending adventure to learn, so there's so much more to learn!
 
 ---
 
-### Technologies & Tools
-- HTML
-- CSS & SASS
-- Javascript
-- React
-- Next.js
-- Vue.js
-- Nuxt.js
-- WordPress
-- Bootstrap
-- Tailwind
-
 ### Contact Me
 - Website [yusufbozaci.dev](https://yusufbozaci.dev)
 - Twitter [@yusufbozaci_](https://twitter.com/yusufbozaci_)
