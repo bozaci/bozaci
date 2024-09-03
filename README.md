@@ -25,6 +25,6 @@ I usually focus on the React and Next.js front-end frameworks and also have back
 ### Contact Me
 
 Website: [yusufbozaci.dev](https://yusufbozaci.dev)<br />
-LinkedIn: [@yusufbozaci](https://linkedin.com/yusufbozaci)<br />
+LinkedIn: [@yusufbozaci](https://linkedin.com/in/yusufbozaci)<br />
 Twitter: [@yusufbozaci\_](https://twitter.com/yusufbozaci_)<br />
 E-Mail: [hi@yusufbozaci.dev](mailto:hi@yusufbozaci.dev)
