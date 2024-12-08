@@ -8,25 +8,30 @@ I strive to deliver responsive, user-friendly designs with clean and maintainabl
 
 ### Tech Stack
 
-![html](https://img.shields.io/badge/HTML-353535?style=for-the-badge)
-![css](https://img.shields.io/badge/CSS-353535?style=for-the-badge)
-![javascript](https://img.shields.io/badge/Javascript-353535?style=for-the-badge)
-![sass](https://img.shields.io/badge/SASS-353535?style=for-the-badge)<br />
-![react](https://img.shields.io/badge/React.js-353535?style=for-the-badge)
-![next](https://img.shields.io/badge/Next.js-353535?style=for-the-badge)
-![typescript](https://img.shields.io/badge/Typescript-353535?style=for-the-badge)<br />
-![redux-toolkit](https://img.shields.io/badge/Redux-Toolkit-353535?style=for-the-badge)
-![redux-toolkit](https://img.shields.io/badge/React-Hooks-353535?style=for-the-badge)
-![redux-toolkit](https://img.shields.io/badge/React-Query-353535?style=for-the-badge)
-![redux-toolkit](https://img.shields.io/badge/Formik-353535?style=for-the-badge)
-![redux-toolkit](https://img.shields.io/badge/Yup-353535?style=for-the-badge)<br />
-![vuejs](https://img.shields.io/badge/Vue.js-353535?style=for-the-badge)
-![nuxt](https://img.shields.io/badge/Nuxt.js-353535?style=for-the-badge)
-![vuex](https://img.shields.io/badge/Vuex-353535?style=for-the-badge)<br />
-![redux-toolkit](https://img.shields.io/badge/BEM-353535?style=for-the-badge)
-![redux-toolkit](https://img.shields.io/badge/Git-353535?style=for-the-badge)
-![redux-toolkit](https://img.shields.io/badge/ESLint-353535?style=for-the-badge)
-![redux-toolkit](https://img.shields.io/badge/Prettier-353535?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-353535?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-353535?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/Javascript-353535?style=for-the-badge)
+![SASS](https://img.shields.io/badge/SASS-353535?style=for-the-badge)
+<br />
+![React](https://img.shields.io/badge/React.js-353535?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-353535?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/Typescript-353535?style=for-the-badge)
+<br />
+![Redux Toolkit](https://img.shields.io/badge/Redux-Toolkit-353535?style=for-the-badge)
+![React Hooks](https://img.shields.io/badge/React-Hooks-353535?style=for-the-badge)
+![React Query](https://img.shields.io/badge/React-Query-353535?style=for-the-badge)
+![Formik](https://img.shields.io/badge/Formik-353535?style=for-the-badge)
+![Yup](https://img.shields.io/badge/Yup-353535?style=for-the-badge)
+<br />
+![Vue.js](https://img.shields.io/badge/Vue.js-353535?style=for-the-badge)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-353535?style=for-the-badge)
+![Vuex](https://img.shields.io/badge/Vuex-353535?style=for-the-badge)
+<br />
+![BEM](https://img.shields.io/badge/BEM-353535?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-353535?style=for-the-badge)
+![ESLint](https://img.shields.io/badge/ESLint-353535?style=for-the-badge)
+![Stylelint](https://img.shields.io/badge/Stylelint-353535?style=for-the-badge)
+![Prettier](https://img.shields.io/badge/Prettier-353535?style=for-the-badge)
 
 ### Contact Me
 
